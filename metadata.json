@@ -1,0 +1,6 @@
+{
+  "name": "Nisuu Mart",
+  "description": "A complete, production-ready, mobile-first multi-vendor e-commerce marketplace with customer, seller, and admin dashboards, UPI payments, wallet, order tracking, and returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
